@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("SDA School")
+#!/bin/bash
+print("Best School")
