@@ -1,3 +1,6 @@
+#include <object.h>
+#include <listobject.h>
+#include <bytesobject.h>
 #include <stdio.h>
 #include <Python.h>
 
